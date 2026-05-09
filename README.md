@@ -1,10 +1,10 @@
 <h1 align="center" style="font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;">Hi 👋, I'm Razan</h1>
 <h1 align="center" style="font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;">
-🚀 Big Data Enthusiast
+Software Engineer
 </h1>
 
 <h3 align="center" style="font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;">
-Exploring the Intersection of Big Data & Artificial Intelligence
+Software Engineering student passionate about building efficient, user-focused applications and continuously learning new technologies
 </h3>
 
 ---
