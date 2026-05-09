@@ -1,6 +1,6 @@
 <h1 align="center" style="font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;">Hi 👋, I'm Razan</h1>
 <h1 align="center" style="font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;">
-🚀 Big Data Enthusiast
+Software Engineer
 </h1>
 
 <h3 align="center" style="font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;">
